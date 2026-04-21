@@ -15,7 +15,7 @@ export default function Portfolio() {
                 {/* Project 1 */}
                 <div className="relative group overflow-hidden rounded-xl">
                     <Image
-                        src="/P1-image.jfif"
+                        src="/P1.jpg"
                         alt="Project 1"
                         width={400}
                         height={300}
@@ -30,7 +30,7 @@ export default function Portfolio() {
                 {/* Project 2 */}
                 <div className="relative group overflow-hidden rounded-xl">
                     <Image
-                        src="/P2-image.png"
+                        src="/P2.png"
                         alt="Project 2"
                         width={400}
                         height={300}
@@ -44,7 +44,7 @@ export default function Portfolio() {
                 {/* Project 3 */}
                 <div className="relative group overflow-hidden rounded-xl">
                     <Image
-                        src="/P3-image.jfif"
+                        src="/P3.jpg"
                         alt="Project 3"
                         width={400}
                         height={300}

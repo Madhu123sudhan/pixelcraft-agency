@@ -44,9 +44,6 @@ export default function Contact() {
             id="contact"
             className="py-20 px-6 bg-white dark:bg-gray-900 transition-colors"
         >
-            <div className="bg-white dark:bg-black text-black dark:text-white p-5">
-                Dark Mode Test
-            </div>
             <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-12 items-center">
 
                 {/* LEFT - FORM */}
